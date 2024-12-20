@@ -1,0 +1,2 @@
+# array_string_obj_problems
+assignments of array_string_object
